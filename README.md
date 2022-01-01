@@ -29,21 +29,7 @@ A simulation between two banks and a utility company, where the utility company 
 - ASP.NET Web API will be used to facilitate communication between the utility company and Bank A
 - gRPC will be used to facilitate communication between the utility company and Bank B (*WILL HAVE TO RESEARCH THIS AS I'VE NEVER USED IT BEFORE*)
 
-## Bank A
-### Administrator
-1. CRUD customer
-2. CRUD teller
-3. Assign user to a role
-### Teller
-1. Make deposit to customer accounts
-2. Make withdrawal from customer accounts
-3. View all customers
-4. View all customer transactions
-### Customer
-1. View all his/her account details
-2. View all transactions conducted on his/her account
-
-## Bank B
+## Both Bank A & B
 ### Administrator
 1. CRUD customer
 2. CRUD teller
